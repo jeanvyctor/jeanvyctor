@@ -56,5 +56,6 @@ Nos últimos tempos, comecei a estudar **análise de dados, automações e desen
 
 - Email: jeanvyctor5@gmail.com  
 - LinkedIn: [https://www.linkedin.com/in/jean-vyctor-resende-574568197/](https://www.linkedin.com/in/jean-vyctor-resende-574568197/)
+- Whatsapp : (79) 9 9685-9938
 
 ---
