@@ -8,20 +8,21 @@
 
 ### 🚀 Projeto em Destaque
 
-#### 📊 [Planilha de Controle Financeiro Pessoal](https://github.com/JeanVyctor/controle-financeiro)
+#### 📊 [Planilha Financeira Pessoal](https://github.com/jeanvyctor/planilha_financeira)
 
-Desenvolvi essa planilha para **organizar minhas finanças pessoais**, controlando de forma simples as **entradas e saídas do mês**.  
+Criei essa planilha para **organizar minhas finanças pessoais**, controlando de forma simples o que **entra e sai do meu orçamento**.  
 
-A ideia foi criar algo prático, que ajudasse a ter **clareza sobre gastos e economia**, sem precisar de aplicativos pagos ou complicados.
+O objetivo é ter **clareza sobre gastos e saldo disponível**, de forma prática e sem depender de aplicativos pagos.
 
 #### Funcionalidades:
-- Registro de **entradas e saídas mensais**  
-- **Resumo automático** com totais de saldo, receitas e despesas  
-- **Gráficos dinâmicos** para acompanhar evolução financeira  
-- Filtros por mês e ano  
-- Campos protegidos para evitar alterações acidentais  
+- Registro de **entradas (ex: salário, renda extra)**  
+- Registro de **despesas/lançamentos (ex: contas, compras, serviços)**  
+- **Resumo automático** do período, com cálculo de saldo  
+- **Formatação condicional:** valores negativos aparecem em vermelho  
+- **Campos protegidos** para evitar alterações acidentais  
+- **Gráficos e filtros** para acompanhar evolução mensal  
 
-🔗 Veja o projeto: [Planilha de Controle Financeiro Pessoal](https://github.com/JeanVyctor/controle-financeiro)
+🔗 Veja o projeto: [Planilha Financeira Pessoal](https://github.com/jeanvyctor/planilha_financeira)
 
 ---
 
